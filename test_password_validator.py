@@ -1,5 +1,5 @@
 import unittest
-from password_validator import validate_password
+from password_validator2 import validate_password
 
 class TestPasswordValidator(unittest.TestCase):
     def test_valid_passwords(self):
